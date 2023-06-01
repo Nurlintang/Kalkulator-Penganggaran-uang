@@ -1,0 +1,75 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;600&display=swap');
+
+  * {
+    margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration:none;
+  }
+  .total-semua{
+    background: #DDFFBB;
+  }
+  .judul{
+    color: #A4BC92;
+    text-align: center;
+  }
+  .judul-1{
+    position: absolute;
+    top: 4%;
+    left: 25%;
+    text-align: center;
+    color: #DDFFBB;
+    font-size: 20px;
+  }
+  .box-1{
+    text-align: left;
+    display: flex;
+    max-width: 300px;
+    width: 80%;
+    background: #A4BC92;
+    border-radius: 20px;
+    padding: 40px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    position: absolute;
+    color: #DDFFBB;
+    top: 10%;
+    left: 25%;
+    
+  }
+  .box-2{
+    display: flex;
+    max-width: 300px;
+    width: 80%;
+    background: #A4BC92;
+    border-radius: 20px;
+    padding: 40px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    position: absolute;
+    color: #DDFFBB;
+    top: 10%;
+    right: 25%;
+  }
+  .penjelasan-1{
+    width: 30%;
+    background: #B3C99C;
+    border-radius: 20px;
+    padding: 40px;
+    width: 100%;
+  }
+  .dibawah{
+    display: flex;
+    max-width: 400px;
+    width: 100%;
+    background: #A4BC92;
+    border-radius: 20px;
+    padding: 40px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    position: absolute;
+    color: #DDFFBB;
+    top: 68%;
+    right: 35%;
+    text-align: center;
+    font-size: 18px;
+  }
